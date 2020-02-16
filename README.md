@@ -11,8 +11,9 @@ Our project offers three separate services.
 3. Mars Rover Photos
    1. It allows you to view the images captured by the robots sent by NASA to Mars.
    
-   1. Item 3b
-We implemeted the project using Android Studio 
+   
+#  We implemeted the project using Android Studio  <h4>
+
 # Home <h3> 
 
 ![HOME](https://raw.githubusercontent.com/AdamAbidi/Android-Project-NASA-API/master/Images/2.png)
