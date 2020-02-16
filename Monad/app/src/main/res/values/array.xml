@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerItems">
+        <item>all</item>
+        <item>fhaz</item>
+        <item>rhaz</item>
+        <item>mast</item>
+        <item>chemcam</item>
+        <item>mahli</item>
+        <item>mardi</item>
+        <item>navcam</item>
+        <item>pancam</item>
+        <item>minites</item>
+    </string-array>
+</resources>
