@@ -3,16 +3,14 @@
 My team developped a mobile application for space amateurs.
 Our project offers three separate services.
 
-The first: called APOD ,displays the photo of the day taken by the satellites.
 
-The second: Earth imagery which displays images of the earth at a specific date and a longitude and latitude chosen by the user.
-
-The third: the most ambitious of the three, called Mars Rover Photos, allows you to view the images captured by the robots sent by NASA to Mars.
-
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
+1. APOD 
+   1. It displays the photo of the day taken by the satellites.
+2. Earth imagery
+   1. The service displays images of the earth at a specific date and a longitude and latitude chosen by the user.
+3. Mars Rover Photos
+   1. It allows you to view the images captured by the robots sent by NASA to Mars.
+   
    1. Item 3b
 We implemeted the project using Android Studio 
 # Home <h3> 
