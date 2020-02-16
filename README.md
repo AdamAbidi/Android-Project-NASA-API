@@ -1,7 +1,7 @@
 # Android-Project-NASA-API
 
 My team developped a mobile application for space amateurs.
-Our project offers the possibility of using three separate services.
+Our project offers three separate services.
 
 The first: called APOD ,displays the photo of the day taken by the satellites.
 
@@ -11,13 +11,13 @@ The third: the most ambitious of the three, called Mars Rover Photos, allows you
 
 We implemeted the project using Android Studio 
 
-![Image of Yaktocat](https://raw.githubusercontent.com/AdamAbidi/Android-Project-NASA-API/master/Images/2.png)
+![HOME](https://raw.githubusercontent.com/AdamAbidi/Android-Project-NASA-API/master/Images/2.png)
 
-![Image of Yaktocat](https://raw.githubusercontent.com/AdamAbidi/Android-Project-NASA-API/master/Images/3.png)
-
-
-![Image of Yaktocat](https://raw.githubusercontent.com/AdamAbidi/Android-Project-NASA-API/master/Images/4.png)
+![Service 1](https://raw.githubusercontent.com/AdamAbidi/Android-Project-NASA-API/master/Images/3.png)
 
 
-![Image of Yaktocat](https://raw.githubusercontent.com/AdamAbidi/Android-Project-NASA-API/master/Images/5.png)
+![Service 2](https://raw.githubusercontent.com/AdamAbidi/Android-Project-NASA-API/master/Images/4.png)
+
+
+![Service 3](https://raw.githubusercontent.com/AdamAbidi/Android-Project-NASA-API/master/Images/5.png)
 
