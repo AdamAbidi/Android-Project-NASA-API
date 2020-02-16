@@ -12,7 +12,7 @@ Our project offers three separate services.
    1. It allows you to view the images captured by the robots sent by NASA to Mars.
    
    
-#  We implemeted the project using Android Studio  <h4>
+**  We implemeted the project using Android Studio  **
 
 # Home <h3> 
 
