@@ -4,7 +4,7 @@ My team developped a mobile application for space amateurs.
 Our project offers three separate services.
 
 
-**1. APOD** 
+**1. APOD
    1. It displays the photo of the day taken by the satellites.
 **2. Earth imagery**
    1. The service displays images of the earth at a specific date and a longitude and latitude chosen by the user.
