@@ -1,5 +1,6 @@
 # Android Project NASA API
 
+## Introduction :
 My team developped a mobile application for space amateurs.
 Our project offers three separate services.
 
@@ -35,3 +36,6 @@ Our project offers three separate services.
 
 ![Service 3](https://raw.githubusercontent.com/AdamAbidi/Android-Project-NASA-API/master/Images/5.png)
 
+
+## Installation 
+npm install @adamabidi/android-project-nasa-api@1.0.0
